@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_1mZFQAxsEeuHXZ_g_7UnAQ">
+    <contextParameter comment="" name="Files_RowSeparator" prompt="Files_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;" xmi:id="_1mZFQQxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_FieldSeparator" prompt="Files_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;" xmi:id="_1mZFQgxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_Encoding" prompt="Files_Encoding?" promptNeeded="false" type="id_String" value="US-ASCII" xmi:id="_1mZFQwxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_RetailCustomers_Path" prompt="Files_RetailCustomers_Path?" promptNeeded="false" type="id_File" value="C:/StudentFiles/refCustomer.csv" xmi:id="_1mZFRAxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_RetailCustomers_Header" prompt="Files_RetailCustomers_Header?" promptNeeded="false" type="id_Integer" value="6" xmi:id="_1mZFRQxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_RetailProducts_Path" prompt="Files_RetailProducts_Path?" promptNeeded="false" type="id_String" value="C:/StudentFiles/refProducts.csv" xmi:id="_1mZFRgxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_RetailSales_Path1" prompt="Files_RetailSales_Path1?" promptNeeded="false" type="id_File" value="C:/StudentFiles/SalesFiles/shop1.out" xmi:id="_1mZFRwxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_RetailSales_Path2" prompt="Files_RetailSales_Path2?" promptNeeded="false" type="id_File" value="C:/StudentFiles/SalesFiles/shop2.out" xmi:id="_1mZFSAxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_RetailSales_Path3" prompt="Files_RetailSales_Path3?" promptNeeded="false" type="id_File" value="C:/StudentFiles/SalesFiles/shop3.out" xmi:id="_1mZFSQxsEeuHXZ_g_7UnAQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="dev" xmi:id="_1mZFSgxsEeuHXZ_g_7UnAQ">
+    <contextParameter comment="" name="Files_RowSeparator" prompt="Files_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;" xmi:id="_1mZFSwxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_FieldSeparator" prompt="Files_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;" xmi:id="_1mZFTAxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_Encoding" prompt="Files_Encoding?" promptNeeded="false" type="id_String" value="US-ASCII" xmi:id="_1mZFTQxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_RetailCustomers_Path" prompt="Files_RetailCustomers_Path?" promptNeeded="false" type="id_File" value="/home/talenduser/files/dev/refCustomer.csv" xmi:id="_1mZFTgxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_RetailCustomers_Header" prompt="Files_RetailCustomers_Header?" promptNeeded="false" type="id_Integer" value="6" xmi:id="_1mZFTwxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_RetailProducts_Path" prompt="Files_RetailProducts_Path?" promptNeeded="false" type="id_String" value="/home/talenduser/files/dev/refProducts.csv" xmi:id="_1mZFUAxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_RetailSales_Path1" prompt="Files_RetailSales_Path1?" promptNeeded="false" type="id_File" value="/home/talenduser/files/dev/SalesFiles/shop1.out" xmi:id="_1mZFUQxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_RetailSales_Path2" prompt="Files_RetailSales_Path2?" promptNeeded="false" type="id_File" value="/home/talenduser/files/dev/SalesFiles/shop2.out" xmi:id="_1mZFUgxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_RetailSales_Path3" prompt="Files_RetailSales_Path3?" promptNeeded="false" type="id_File" value="/home/talenduser/files/dev/SalesFiles/shop3.out" xmi:id="_1mZFUwxsEeuHXZ_g_7UnAQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="prd" xmi:id="_1mZFVAxsEeuHXZ_g_7UnAQ">
+    <contextParameter comment="" name="Files_RowSeparator" prompt="Files_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;" xmi:id="_1mZFVQxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_FieldSeparator" prompt="Files_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;" xmi:id="_1mZFVgxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_Encoding" prompt="Files_Encoding?" promptNeeded="false" type="id_String" value="US-ASCII" xmi:id="_1mZFVwxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_RetailCustomers_Path" prompt="Files_RetailCustomers_Path?" promptNeeded="false" type="id_File" value="/home/talenduser/files/prd/refCustomer.csv" xmi:id="_1mZFWAxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_RetailCustomers_Header" prompt="Files_RetailCustomers_Header?" promptNeeded="false" type="id_Integer" value="6" xmi:id="_1mZFWQxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_RetailProducts_Path" prompt="Files_RetailProducts_Path?" promptNeeded="false" type="id_String" value="/home/talenduser/files/prd/refProducts.csv" xmi:id="_1mZFWgxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_RetailSales_Path1" prompt="Files_RetailSales_Path1?" promptNeeded="false" type="id_File" value="/home/talenduser/files/prd/SalesFiles/shop1.out" xmi:id="_1mZFWwxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_RetailSales_Path2" prompt="Files_RetailSales_Path2?" promptNeeded="false" type="id_File" value="/home/talenduser/files/prd/SalesFiles/shop2.out" xmi:id="_1mZFXAxsEeuHXZ_g_7UnAQ"/>
+    <contextParameter comment="" name="Files_RetailSales_Path3" prompt="Files_RetailSales_Path3?" promptNeeded="false" type="id_File" value="/home/talenduser/files/prd/SalesFiles/shop3.out" xmi:id="_1mZFXQxsEeuHXZ_g_7UnAQ"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_5aa8d752-96fd-462d-99a5-ebb24e5ef128"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>PujE24VsSP6LI1wfNyUhr/stgD+srsEDuNTKg1eYYJ4BsBbz0N0MoyoY+D83QvswI3x5vVAyN/Ev
+HoJH9/LL2Q==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_6c09cd40-c6e5-4e54-ac2d-01ab0da055f9"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>ZNnldr5TajJY24CO+Nz2r3RQvkC7F4uxPzRxQVRnOdlHKwSWpgucdnAVjrWzjFNZX6+DrzcC7Jqq
+sIcazdzhmw==</DigestValue></Reference></SignedInfo><SignatureValue>WdSywExiKA1Tri0ak4y1+OC7QxGaPMiF0lvKiFYGj/5p0ayBla2k8uob4gw4qDSpIOwDnmnLmZHp
+u1RbHmW/r5Hzi0DmkY4kYZjgu1V/zw/WIyNuRecR36HJJHfhszYqxTA1BWWElEmsOwkTDarizVed
+pGtAVWkKtAuQnIrS8vmMcY9UwdFbKoasf8VZzqh2gRh0DPLHOiiinvUR/4OUO8DsDC6N8xHiT99a
+0z4g5F0wQlETWQhMU2xKUMOQOjn/EYnTeIJ0BmWOFKiomEDBafvI0RSYRm1tU5TWzOUEcaWfFAmf
+Kk2H+GrI2zkoECUSjDK8je+JD619O+cKS8CJ1g==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_6c09cd40-c6e5-4e54-ac2d-01ab0da055f9" Target="#_5aa8d752-96fd-462d-99a5-ebb24e5ef128"><Timestamp>2020-10-12 09:25:15</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
